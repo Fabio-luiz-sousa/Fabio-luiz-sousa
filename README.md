@@ -1,8 +1,10 @@
 ### Opa!! Meu nome é Fábio Luiz Sousa 👋
 
--📙Estudando Python  <img align="center" alt="Fabio-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+ -📙Estudando Python  <img align="center" alt="Fabio-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
--⚡Cursando Engenharia Elétrica
+ -⚡Cursando Engenharia Elétrica
+
+ -🎸Meu hobby preferido é tocar violão🎵
 
 <div align="center">
   <a href="https://github.com/Fabio-luiz-sousa">
