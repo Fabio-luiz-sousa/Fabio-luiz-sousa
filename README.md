@@ -1,15 +1,15 @@
 ### Opa!! Meu nome é Fábio Luiz Sousa 👋
 
- -📙Estudando [Python](https://www.python.org/)  <img align="center" alt="Fabio-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-
- -⚡Cursando Engenharia Elétrica
-
+-📙Estudando [Python](https://www.python.org/)  <img align="center" alt="Fabio-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+ 
+ -⚡Cursando Engenharia Elétrica 
+ 
  -🎸Meu hobby preferido é tocar violão🎵
 
 <div align="center">
   <a href="https://github.com/Fabio-luiz-sousa">
-  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=Fabio-luiz-sousa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-luiz-sousa&layout=compact&langs_count=1&theme=merko"/>
+  <img height="35%" src="https://github-readme-stats.vercel.app/api?username=Fabio-luiz-sousa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-luiz-sousa&layout=compact&langs_count=1&theme=merko"/>
 </div>
 
   ##
