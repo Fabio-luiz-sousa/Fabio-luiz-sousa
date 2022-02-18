@@ -3,8 +3,6 @@
 -📙Estudando [Python](https://www.python.org/)  <img align="center" alt="Fabio-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  
  -⚡Cursando Engenharia Elétrica 
- 
- -🎸Meu hobby preferido é tocar violão🎵
 
 <div align="center">
   <a href="https://github.com/Fabio-luiz-sousa">
