@@ -1,15 +1,15 @@
-### Opa!! Meu nome é Fábio Luiz Sousa 👋
+<h1 align="center">Hi 👋, I'm Fábio</h1>
+<h3 align="center">Futuro Cientista de Dados</h3>
 
- -⚡Cursando Engenharia Elétrica 
+- 🌱 I’m currently learning **SQL, Machine Learning**
 
-<div align="center">
-  <a href="https://github.com/Fabio-luiz-sousa">
-  <img height="35%" src="https://github-readme-stats.vercel.app/api?username=Fabio-luiz-sousa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-luiz-sousa&layout=compact&langs_count=1&theme=merko"/>
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/Fabio-luiz-sousa?tab=repositories](https://github.com/Fabio-luiz-sousa?tab=repositories)
 
-  ##
- <a href = "mailto:fabioprogramar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-      src="https://cdn.discordapp.com/attachments/403576394782736387/942614217347973171/gif_shikamaru.gif?width=500&height=500">
- 
+- 📝 I regularly write articles on [https://medium.com/@fabioprogramar](https://medium.com/@fabioprogramar)
+
+- 📫 How to reach me **fabioprogramar@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/403576394782736387/942614217347973171/gif_shikamaru.gif" alt="shikamaru" width="400" height="200"</p>
