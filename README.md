@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 <h3 align="center">Futuro Data Science</h3>
 
-- 🌱 I’m currently learning **HTML,CSS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Fabio-luiz-sousa?tab=repositories](https://github.com/Fabio-luiz-sousa?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@fabioprogramar](https://medium.com/@fabioprogramar)
