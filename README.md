@@ -8,7 +8,7 @@
 - 📫 How to reach me **fabioprogramar@gmail.com**, 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a  href="https://www.linkedin.com/in/f%C3%A1bio-luiz-077a00258/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+<p align="left"> <a  href="https://www.linkedin.com/in/fabioluizs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
 </p>
           
 
