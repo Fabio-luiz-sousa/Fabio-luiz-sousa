@@ -1,30 +1,22 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 
-Hello! My name is Fábio, I'm 23 years old and I'm an electrical engineering student at the Federal University of São Jõao Del Rei.
+Hello! My name is Fábio, I'm 23 years old and I'm an electrical engineering student at the Federal University of São João Del Rei.
 
-### Soft Skills:  
+Interpersonal skills:
+- 🗣 Proactivity
+- 🗣 Teamwork
+- 🗣 Self-taught
+- 🗣 Ease of learning
 
-- Proactivity  
-
-- Teamwork  
-
-- Self-taught  
-
-- Ease of learning  
-
-### Hard Skills:  
-
-- Python  
-
-- SQL  
-
-- Git  
-
-- Descriptive and inferential statistics  
-
-- HTML and CSS  
-
-- Machine Learning  
+Hard Skills:
+- 👨‍💻Python
+- 👨‍💻 C++
+- 👨‍💻 Computer Vision
+- 👨‍💻 Machine Learning
+- 👨‍💻 Arduino
+- 👨‍💻SQL
+- 👨‍💻 Git
+- 👨‍💻 Statistics
 
 ---
 - 👨‍💻 All of my projects are available at [repository.](https://github.com/Fabio-luiz-sousa?tab=repositories)
