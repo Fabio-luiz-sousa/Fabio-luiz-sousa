@@ -16,7 +16,6 @@ Hard Skills:
 - 👨‍💻 Arduino
 - 👨‍💻SQL
 - 👨‍💻 Git
-- 👨‍💻 Statistics
 
 ---
 - 👨‍💻 All of my projects are available at [repository.](https://github.com/Fabio-luiz-sousa?tab=repositories)
