@@ -10,12 +10,12 @@ Interpersonal skills:
 
 Hard Skills:
 - 👨‍💻Python
-- 👨‍💻 C++
-- 👨‍💻 Computer Vision
-- 👨‍💻 Machine Learning
-- 👨‍💻 Arduino
-- 👨‍💻SQL
-- 👨‍💻 Git
+- 👨‍💻DSP
+- 👨‍💻Control
+- 👨‍💻Eletronic
+- 👨‍💻Amplifiers
+- 👨‍💻C
+- 👨‍💻Microcontrollers
 
 ---
 - 👨‍💻 All of my projects are available at [repository.](https://github.com/Fabio-luiz-sousa?tab=repositories)
