@@ -4,19 +4,28 @@ Hello! My name is Fábio, I'm 25 years old and I'm an Electrical Engineering stu
 
 Soft Skills:
 
-🗣 Proactivity
-🗣 Teamwork
-🗣 Self-taught
-🗣 Quick learner
+🗣 Proactivity 
+
+🗣 Teamwork 
+
+🗣 Self-taught 
+
+🗣 Quick learner 
 
 Hard Skills:
 
 👨‍💻 Power Electronics
+
 👨‍💻 Analog Electronics
+
 👨‍💻 PCB Development
+
 👨‍💻 Microcontrollers (STM32)
+
 👨‍💻 Python
+
 👨‍💻 C
+
 👨‍💻 DSP
 
 ---
