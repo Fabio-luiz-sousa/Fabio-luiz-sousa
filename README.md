@@ -24,7 +24,7 @@ Hard Skills:
 
 👨‍💻 Python
 
-👨‍💻 C
+👨‍💻 C/C++
 
 👨‍💻 DSP
 
